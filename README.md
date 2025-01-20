@@ -16,7 +16,7 @@ This is the frontend for the Ayna Fullstack Developer Assignment. It consists of
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sam-Frost/Ayna-Assignment-Frontend
+git clone https://github.com/shakyagithub/AynaFrontendAssignment
 cd Ayna-Assignment-Frontend
 ```
 
