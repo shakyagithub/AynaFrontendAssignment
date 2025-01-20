@@ -44,4 +44,4 @@ Open http://localhost:3000 with your browser to see the result.
 
 
 ## Backend
-Backend: https://github.com/Sam-Frost/Ayna-Assignment-Backend
+Backend: https://github.com/shakyagithub/AynaBackendAssignment
